@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebServicing</string>
+    <string name="issue">"Issue # "</string>
+    <string name="no_network">No Network Available</string>
+</resources>
